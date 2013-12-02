@@ -1,3 +1,7 @@
 This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
 
+Graph creation application with interactive GUI (version 1)
 
+Summary:
+
+Graph creation application (in development) which will create normal graphs, digraphs, weighted graphs and weighted digraphs along with numerous path algorithms. Interactive GUI also to be developed for simple graph manipulation.
